@@ -5,6 +5,7 @@
 A real-time camera application that applies virtual beard filters using OpenCV.  
 Supports 6 different beard styles, selectable during live video streaming.
 
+![demo](video/beard1.gif)
 
 ## Features
 - Real-time webcam video capture
