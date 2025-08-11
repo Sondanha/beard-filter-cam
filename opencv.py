@@ -194,7 +194,7 @@ def main():
     if not fps or fps <= 1:
         fps = 30.0
 
-    fourcc = cv2.VideoWriter_fourcc(*"XVID")
+    fourcc = cv2.VideoWriter_fourcc(*"mp4v")
     # 코덱 선택
       # 1. mp4v : MP4 컨테이너
       # 2. XVID : AVI 컨테이너에서 흔함(용량↑)
